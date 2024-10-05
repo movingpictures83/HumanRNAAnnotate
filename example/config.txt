@@ -1,0 +1,2 @@
+Prefix plugins/HumanRNAAnnotate/example
+Plugin HumanRNAAnnotate inputfile none outputfile genes.rds
